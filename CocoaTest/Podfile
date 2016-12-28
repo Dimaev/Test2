@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+
+target ‘CocoaTest' do
+
+use_frameworks!
+pod 'FacebookCore'
+pod 'FacebookLogin'
+pod 'FacebookShare'
+
+end
